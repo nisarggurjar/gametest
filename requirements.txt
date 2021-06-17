@@ -1,0 +1,4 @@
+Django
+celery==5.0.5
+redis
+psycopg2
